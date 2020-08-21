@@ -2,15 +2,13 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Dhanshree Sanap on 20/08/20.
+//  Created by Dhanshree Nagre on 21/08/20.
 //
 
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
