@@ -30,7 +30,7 @@
                                     <constraint firstAttribute="height" constant="40" id="R98-gk-8Lr"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
+                                <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FXP-Yh-B2S">
                                 <rect key="frame" x="100" y="398" width="214" height="40"/>
